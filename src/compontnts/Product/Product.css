@@ -1,0 +1,28 @@
+.product{
+    border: 1px solid goldenrod;
+    border-radius: 20px;
+    padding: 0 20px 0 20px;
+    position: relative;
+
+}
+.product button{
+    width: 100%;
+    background-color: coral;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.product button:hover{
+    background-color: chocolate;
+}
+
+.product img{
+    width: 200px;
+    height: 200px;
+    padding-bottom: 30px;
+    padding: 0;
+}
+.product h3{
+    padding: 50px;
+}
